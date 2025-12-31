@@ -1,4 +1,5 @@
 # Power BI Assistant README
+<img width="950" height="532" alt="power bi mcp server chat bot" src="https://github.com/user-attachments/assets/7f6a9e63-9986-4493-9da1-b76212e84762" />
 
 ## Overview
 
