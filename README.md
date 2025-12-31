@@ -3,8 +3,11 @@
 ## Overview
 
 This Power BI Assistant is designed to help users interact with their Power BI datasets more effectively. It provides capabilities for querying data, creating measures, and managing data models, all through natural language interactions.
+## How to Run
 
-## How It Works
+1.Download the code file and Power bi MCp server.
+2.Place the location of the mcp server in the env file.
+3.Open the power bi desktop which want to connect and run the code.
 
 1. **Natural Language Processing**: The assistant interprets user requests and determines the appropriate action, whether it's querying data, creating measures, or managing data models.
 
